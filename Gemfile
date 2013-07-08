@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in capistrano-nginx.gemspec
+# Specify your gem's dependencies in capistrano-apache2.gemspec
 gemspec
 
 gem 'rake'

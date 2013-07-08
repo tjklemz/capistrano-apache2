@@ -1,4 +1,8 @@
+Based on the gem 'capistrano-nginx' by:
 Copyright (c) 2012 Ivan Tkalin
+
+Modifications by:
+Copyright (c) 2013 Thomas Klemz
 
 MIT License
 

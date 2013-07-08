@@ -1,0 +1,3 @@
+To create local apache2 configuration file call
+
+    rails generate capistrano:apache2:config
